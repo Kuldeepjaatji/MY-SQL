@@ -1,0 +1,2 @@
+use Student;
+show databases;
